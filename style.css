@@ -11,7 +11,7 @@ body {
 .button1{
     position: relative;
     font-size: 20px;
-    top: 200px; left: 450px;
+    top: 200px; left: 250px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
     color: #000000;
@@ -24,7 +24,7 @@ body {
 #output {
     position: relative;
     font-size: 20px;
-    top: 285px; left: -65px;
+    top: 285px; left: -265px;
     width: 300px;
     background: transparent;
     color: #000000;
@@ -35,7 +35,7 @@ body {
 .button2{
     position: relative;
     font-size: 20px;
-    top: 200px; left: 465px;
+    top: 200px; left: 265px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
     color: #000000;
@@ -48,7 +48,7 @@ body {
 .button3{
     position: relative;
     font-size: 20px;
-    top: 200px; left: 465px;
+    top: 200px; left: 265px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
     color: #000000;
