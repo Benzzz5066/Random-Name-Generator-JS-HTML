@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('sunset.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.button1{
+    position: relative;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.281);
+    color: #fff;
+    border: none;
+    border-radius: 2;
+    padding: 7.5px 10px;
+}
+
+#output {
+    position: relative;
+    width: 420px;
+    background: transparent;
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.button2{
+    position: relative;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.281);
+    color: #fff;
+    border: none;
+    border-radius: 2;
+    padding: 7.5px 10px;
+}
+
+.button3{
+    position: relative;
+    width: 350px;
+    background-color: rgba(255, 255, 255, 0.281);
+    color: #fff;
+    border: none;
+    border-radius: 2;
+    padding: 7.5px 10px;
+}

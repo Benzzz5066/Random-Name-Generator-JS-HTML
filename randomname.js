@@ -9901,4 +9901,14 @@ document.getElementById("button1").onclick = function() {
     var randfirstname = firstname[Math.floor(Math.random() * firstname.length)];
     var randlastname = lastname[Math.floor(Math.random() * lastname.length)];
     output.textContent = randfirstname + " " + randlastname;
+
+    document.getElementById("button2").onclick = function() {
+        var randfirstname = firstname[Math.floor(Math.random() * firstname.length)];
+        output.textContent = randfirstname;
+
+        document.getElementById("button3").onclick = function() {
+            var randlastname = lastname[Math.floor(Math.random() * lastname.length)];
+            output.textContent = randlastname;
+    }
+}
 }
