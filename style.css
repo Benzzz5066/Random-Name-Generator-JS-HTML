@@ -3,18 +3,18 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('name.jpg') no-repeat;
+    background: url('sunset.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .button1{
-    position: relative;
+    position: absolute;
     font-size: 20px;
-    top: 200px; left: 250px;
+    top: 350px; left: 225px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #000000;
+    color: #ffffff;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
@@ -22,23 +22,23 @@ body {
 }
 
 #output {
-    position: relative;
+    position: absolute;
     font-size: 20px;
-    top: 285px; left: -265px;
+    top: 400px; left: 600px;
     width: 300px;
     background: transparent;
-    color: #000000;
+    color: #ffffff;
     border-radius: 10px;
     padding: 30px 40px;
 }
 
 .button2{
-    position: relative;
+    position: absolute;
     font-size: 20px;
-    top: 200px; left: 265px;
+    top: 350px; left: 525px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #000000;
+    color: #ffffff;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
@@ -46,27 +46,27 @@ body {
 }
 
 .button3{
-    position: relative;
+    position: absolute;
     font-size: 20px;
-    top: 200px; left: 265px;
+    top: 350px; left: 825px;
     width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #000000;
+    color: #ffffff;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
     cursor:pointer;
 }
 
-.title{
-    position: relative;
+.col{
+    position: absolute;
     font-size: 20px;
-    top: -450px; left: -175px;
+    top: 0px; left: 525px;
     width: 400px;
-    background-color: rgba(255, 255, 255, 0.733);
-    color: #000000;
+    background-color: transparent;
+    color: #ffffff;
     border: none;
-    border-radius: 5;
-    padding: 15px 20px;
+    border-radius: 2;
+    padding: 7.5px 10px;
 }
 
