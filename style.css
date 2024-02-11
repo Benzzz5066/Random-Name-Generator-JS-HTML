@@ -3,46 +3,70 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('sunset.jpg') no-repeat;
+    background: url('name.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .button1{
     position: relative;
-    width: 350px;
+    font-size: 20px;
+    top: 200px; left: 450px;
+    width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #fff;
+    color: #000000;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
+    cursor:pointer;
 }
 
 #output {
     position: relative;
-    width: 420px;
+    font-size: 20px;
+    top: 285px; left: -65px;
+    width: 300px;
     background: transparent;
-    color: #fff;
+    color: #000000;
     border-radius: 10px;
     padding: 30px 40px;
 }
 
 .button2{
     position: relative;
-    width: 350px;
+    font-size: 20px;
+    top: 200px; left: 465px;
+    width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #fff;
+    color: #000000;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
+    cursor:pointer;
 }
 
 .button3{
     position: relative;
-    width: 350px;
+    font-size: 20px;
+    top: 200px; left: 465px;
+    width: 285px;
     background-color: rgba(255, 255, 255, 0.281);
-    color: #fff;
+    color: #000000;
     border: none;
     border-radius: 2;
     padding: 7.5px 10px;
+    cursor:pointer;
 }
+
+.title{
+    position: relative;
+    font-size: 20px;
+    top: -450px; left: -175px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.733);
+    color: #000000;
+    border: none;
+    border-radius: 5;
+    padding: 15px 20px;
+}
+
